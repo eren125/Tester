@@ -1,5 +1,5 @@
 #######################################################################
-############Treating fortran energies, forces, coords data.############
+############Treating DL_Poly energies, forces, coords data.############
 #######################################################################
 
 import numpy as np
